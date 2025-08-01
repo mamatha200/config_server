@@ -1,3 +1,0 @@
-spring.application.name=order-notification-service
-server.port=8095
-order-notification.name=order-notification-service-from-central-config-repo
