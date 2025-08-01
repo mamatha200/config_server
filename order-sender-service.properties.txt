@@ -1,3 +1,0 @@
-spring.application.name=order-sender-service
-server.port=8094
-order-sender.name=order-sender-service-from-central-config-repo
